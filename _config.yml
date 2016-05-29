@@ -1,0 +1,14 @@
+layout_spectrum: 0.3783343
+typography_spectrum: 0.2396568
+color:
+  saturation: 0.5818357
+  lightness: 0.7156152
+  brandStrength: 0.9710681
+  rhythmicContrast: 0.9344227
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Size
